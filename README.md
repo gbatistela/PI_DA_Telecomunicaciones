@@ -4,11 +4,12 @@
 
 
 INTRODUCCION
-Realice un proyecto de la empresa de enacom un ente de telecomunicacion donde alli tenia varios datasets para consumir, sacar informacion donde analizamos diferentes datasets como el acceso a internet por provincias, analizamos las tecnologias que existen y la media bajada mbps.
+
+Realice un proyecto de la empresa ENACOM, una entidad de telecomunicaciones, en el cual tuve acceso a varios conjuntos de datos. A través de estos recursos, se extrajo información relevante al analizar diversos aspectos, como la conectividad a internet por provincia, la evaluación de las tecnologías disponibles y la media de velocidad de descarga en megabits por segundo (mbps).
 
 ANALISIS EXPLORATORIO DE DATOS
 
-Teniamos los datasets donde se les hizo transformaciones cambiando el tipo de dato, agregando columnas, eliminando datos que no eran necesarios, transformamos datos que estaban mal escritos. tambien hicimos observaciones a traves de graficos y sacamos conclusiones, observamos los outliers que existian y los valores duplicados que existian 
+Trabajamos en la mejora de nuestros conjuntos de datos, realizando diversas transformaciones. Esto incluyó cambios en el tipo de datos, la adición de columnas relevantes y la eliminación de datos ineccesarios. Además, nos ocupamos de corregir registros con errores. Además,Tambien utilizamos gráficos para observar patrones y extraer conclusiones. Durante este proceso, identificamos outliers y valores duplicados en los conjuntos de datos. 
 
 ## DASHBOARDS
 
@@ -20,6 +21,8 @@ Hicimos tres paginas ademas de la portada, donde la primera analizamos el acceso
 - Mantener por arriba de un 90% la veloocidad de internet por provincia
 
 # CONCLUSIONES
+
+
 
 
 
