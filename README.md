@@ -14,7 +14,7 @@ Trabajamos en la mejora de nuestros conjuntos de datos, realizando diversas tran
 ## OBJETIVOS:
 
 - Aumentar un 2% la variacion trimestral de acceso cada 100 hogares
-- Mantener por arriba de un 90% la veloocidad de internet por provincia
+- Mantener por arriba de un 4% la veloocidad de internet por provincia
 
 ## DASHBOARDS
 
@@ -27,8 +27,9 @@ Nuestro panel de control también incluye dos indicadores clave de rendimiento (
 
 # CONCLUSIONES
 
+Segun los dataset proporcionados la provincia con mas consumo de internet es Chubut y la provincia con menos consumo de internet es Formosa, donde 600 registros no cumplieron con el objetivo del kpi de superar 4% la velocidad del internet por provincia, los registros que no alcanzaron su objetivo deben realizar una inversion decidida en tecnologias mas avanzadas para aumentar su velocidad, tambien es necesario mejorar la infraesructura de telecomunicaciones.
 
-
+Hasta el 2020 algunas provincias no tenian las tecnologias Wireless y Cablemodem, luego de ese año todas las provincias contaban con todas las tecnologias. La tecnologia mas utilizada es la Fibra Optica por lo que hay que destacar su eficacia y calidad, aunque sea mas costoso, la velocidad es mas rapida que las demas tecnologias.
 
 
 
