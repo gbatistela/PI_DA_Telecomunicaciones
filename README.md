@@ -7,7 +7,8 @@
 
 Realice un proyecto de la empresa ENACOM, una entidad de telecomunicaciones, en el cual tuve acceso a varios conjuntos de datos. A través de estos recursos, se extrajo información relevante al analizar diversos aspectos, como la conectividad a internet por provincia, la evaluación de las tecnologías disponibles y la media de velocidad de descarga en megabits por segundo (mbps).
 
- ### Datasets
+ Datasets:
+  [acceso a internet](datasets/Internet_accesos_tecnologia_provincia.csv)
 
  
 ## ANALISIS EXPLORATORIO DE DATOS
