@@ -9,6 +9,8 @@ Realice un proyecto de la empresa ENACOM, una entidad de telecomunicaciones, en 
 
  Datasets:
   [acceso a internet](datasets/Internet_accesos_tecnologia_provincia.csv)
+  [Acceso a interner por cada 100 hogares](datasets/Internet_penetracion.csv)
+  [Velocidad internet por provincia](datasets/internet_acceso_por_velocidad.csv)
 
  
 ## ANALISIS EXPLORATORIO DE DATOS
